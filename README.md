@@ -1,10 +1,9 @@
-Přehled k přednášce o webu:
-=======================
+Přehled k přednášce o webu
+==========================
 ### zdroje
 > - https://github.com/dypsilon/frontend-dev-bookmarks
 > - http://webplatformdaily.org/ - toto **velmi doporučuji sledovat** - něco jako cnn pro web developery :)
 > - http://jankfree.org/
-> - https://twitter.com/lukew Luke Woblewski twitter - autor knihy Mobile first, kterou velmi doporučuji všem, koho zajímá návrh uživatelských rozhraní: http://www.lukew.com/resources/mobile_first.asp
 > - http://updates.html5rocks.com/
 > - http://caniuse.com/ super užitečná databáze podpory různých features napříč různými verzemi rozšířených prohlížečů
 
