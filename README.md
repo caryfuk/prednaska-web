@@ -9,10 +9,10 @@ Přehled k přednášce o webu
 
 ### Několik zajímavých prezentací k tématu
 ####Paul Irish
-> "Evangelizátor" html5/css3 - pracuje v Google a podílel se na celé řadě zajímavých projektů. Mimo jiné i na zmiňovaném Yeomanu.
+> "Evangelizátor" html5/css3 - pracuje v Google a podílel se na celé řadě zajímavých projektů, mimo jiné i na zmiňovaném Yeomanu.
 
-- V této jeho přednášce více rozvíjí postupy, jakými dosáhnout **zvýšení rychlosti renderingu** html/css uživatelských rozhraní. Z názvu přednášky by se mohlo zdát, že se zaměřuje pouze na implementace paralaxovacího efektu. Ve skutečnosti použil paralaxu jen jako prostředek k vysvětlení toho, jak rendering v prohlížeči funguje, které operace jsou náročné a dlouhotrvající a jak to udělat, aby to bylo pěkné a přitom velmi rychlé: https://www.youtube.com/watch?v=R6TXuXV1bbY
-- V této přednášce se naopak zaměřuje na různé kroky, které můžete udělat, abyste dosáhli **zrychlení načítání vašich webů a webových aplikací** - používá k tomu různé nástroje, o kterých jsem se zmiňoval. Je to opravdu zajímavé a doporučuji:
+- V této jeho přednášce se zaměřuje na postupy, jakými dosáhnout **zvýšení rychlosti renderingu** html/css uživatelských rozhraní. Z názvu videa by se mohlo zdát, že se zaměřuje pouze na implementaci paralaxovacího efektu. Ve skutečnosti použil paralaxu jen jako prostředek k vysvětlení toho, jak rendering v prohlížeči funguje, které operace jsou náročné a dlouhotrvající a jak to udělat, aby to bylo pěkné a přitom velmi rychlé: https://www.youtube.com/watch?v=R6TXuXV1bbY
+- Tady ukazuje, co můžete udělat pro **zrychlení načítání vašich webů a webových aplikací**. Používá k tomu různé nástroje, o kterých jsem se zmiňoval. Je to opravdu zajímavé a doporučuji:
 https://www.youtube.com/watch?v=R8W_6xWphtw
 
 #### Luke Wroblewski
@@ -56,6 +56,7 @@ https://www.youtube.com/watch?v=R8W_6xWphtw
 * http://expressjs.com/ - Node.js webserver, který je součástí např. MEAN stacku, který je zmíněný dále
 * http://www.webpagetest.org/ - měření rychlosti webu - open source projekt. Je možné instalovat lokálně a používat například v automatizovaných testech.
 * https://developers.google.com/speed/pagespeed/insights/ - Vytvoří sestavu doporučení, jak optimalizovat váš web tak, abyste zvýšili rychlost načítání a zlepšili použitelnost na mobilních zařízeních.
+* https://github.com/pocketjoso/penthouse - generátor above the fold inline stylů - vybere ty části stylopisu, které potřebujete, abyste rychle zobrazili první část rozhraní/webu a nemuseli čekat na načtení celého stylopisu z externího souboru
 
 ###Webové aplikace na Node.js
 Node.js není užitečný jen jako prostředí pro spouštění různých nástrojů pro vývoj, ale lze nad ním stavět i samotnou webovou aplikaci - viz odstavec o izomorfních aplikacích výše.
